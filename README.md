@@ -37,20 +37,14 @@ I'm constantly expanding my skill set, whether it's a new framework, tool, or co
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-OOP-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
----
-
 ### 🎨 UI / UX & Design
 ![Figma](https://img.shields.io/badge/Figma-UI%2FUX-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-Design-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-
----
 
 ### 📊 Data Analysis
 ![NumPy](https://img.shields.io/badge/NumPy-Data_Processing-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-Data_Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Firebase Firestore](https://img.shields.io/badge/Firestore-NoSQL-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
----
 
 ### 🧰 Tools & Environment
 ![Git](https://img.shields.io/badge/Git-Version_Control-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -62,7 +56,7 @@ I'm constantly expanding my skill set, whether it's a new framework, tool, or co
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=malsyacantika&show_icons=true&theme=rose_pine)
@@ -74,12 +68,12 @@ I'm constantly expanding my skill set, whether it's a new framework, tool, or co
 
 ---
 
-## ✨ Fun Fact
-> "I drink more coffee than I code ☕👩‍💻"
+### ✨ Fun Fact
+"I drink more coffee than I code ☕👩‍💻"
 
 ---
 
-## 🤝 Connect with Me
+### 🤝 Connect with Me
 💼 LinkedIn: https://www.linkedin.com/in/malsya-cantika-ab26b1318/  
 📷 Instagram: [@heavenmoily](https://instagram.com/heavenmoily)  
 💻 GitHub: https://github.com/malsyacantika
