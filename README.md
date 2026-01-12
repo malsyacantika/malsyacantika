@@ -38,33 +38,6 @@ I have experience developing responsive websites using **HTML, CSS, JavaScript, 
 
 ---
 
-## 📌 Featured Projects
-
-### 🌐 Project-Portofolio-MalsyaCantikaPutri
-Personal portfolio website showcasing profile and projects  
-**Tech:** HTML, CSS  
-🔗 Repository available on my GitHub
-
----
-
-### 🎮 Project-Akhir-Game-PBO
-Final project game using object-oriented programming concepts  
-**Tech:** Java (OOP)
-
----
-
-### 🧪 UAP-WEB-RESPONSI
-Web-based academic project  
-**Tech:** PHP
-
----
-
-### 🖥️ UTP-WEB-Malsya-Cantika
-Website project focusing on layout and structure  
-**Tech:** HTML, CSS
-
----
-
 ## 📊 GitHub Stats
 <div align="center">
 
