@@ -84,7 +84,7 @@ I enjoy transforming ideas into functional and visually engaging solutions while
 ---
 
 ## 🤝 Connect with Me
-💼 LinkedIn: https://linkedin.com/in/Malsyacantika 
+💼 LinkedIn: https://www.linkedin.com/in/malsya-cantika-ab26b1318/  
 📷 Instagram: [@heavenmoily](https://instagram.com/heavenmoily)  
 💻 GitHub: https://github.com/malsyacantika
 
