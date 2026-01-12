@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Computer+Science+Student;Web+Developer;UI%2FUX+Enthusiast;Aspiring+Software+Engineer&center=true&width=500&height=45&color=70A5FD&vCenter=true&pause=1000" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Computer+Science+Student;Web+Developer;UI%2FUX+Enthusiast;Aspiring+Software+Engineer&center=true&width=500&height=45&color=ffc0cb&vCenter=true&pause=1000" />
 </p>
 
 <p align="center">
@@ -29,7 +29,14 @@ I enjoy transforming ideas into functional and visually engaging solutions while
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming Languages
+### 📱 Mobile Development
+![Flutter](https://img.shields.io/badge/Flutter-Cross_Platform-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-Language-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-Mobile_Backend-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Android](https://img.shields.io/badge/Android-Basics-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-Integration-0A66C2?style=for-the-badge)
+
+### 🌐 Web & Backend Development
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Basic-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -47,6 +54,7 @@ I enjoy transforming ideas into functional and visually engaging solutions while
 ### 📊 Data Analysis
 ![NumPy](https://img.shields.io/badge/NumPy-Data_Processing-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-Data_Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Firebase Firestore](https://img.shields.io/badge/Firestore-NoSQL-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ---
 
@@ -54,6 +62,7 @@ I enjoy transforming ideas into functional and visually engaging solutions while
 ![Git](https://img.shields.io/badge/Git-Version_Control-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-Code_Hosting-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-Editor-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-Mobile_IDE-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 ![XAMPP](https://img.shields.io/badge/XAMPP-Local_Server-FB7A24?style=for-the-badge&logo=apachefriends&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google_Colab-Notebook-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
 
