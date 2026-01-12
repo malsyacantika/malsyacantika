@@ -1,29 +1,23 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Computer+Science+Student;Web+Developer;UI%2FUX+Enthusiast;Aspiring+Software+Engineer&center=true&width=500&height=45&color=ffc0cb&vCenter=true&pause=1000" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=malsyacantika&label=Profile%20Views&color=ffb6c1&style=flat" />
-</p>
-
 <div align="center">
 
-# 👋 Hi, I'm **Malsya Cantika**
+<h1>👋 Hi, I'm <b>Malsya Cantika</b></h1>
+<p>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Computer+Science+Student;Web+%26+Mobile+Developer;Flutter+%26+Firebase+Enthusiast;UI%2FUX+Enthusiast;Aspiring+Software+Engineer&center=true&width=520&height=45&color=ffc0cb&vCenter=true&pause=1000" />
+</p>
 
-🎓 Computer Science Student at University of Lampung  
-💻 Web Developer | UI/UX Enthusiast | Aspiring Software Engineer  
-🌱 Passionate about building clean, user-friendly, and interactive digital experiences  
+<p>
+  <img src="https://komarev.com/ghpvc/?username=malsyacantika&label=Profile%20Views&color=ffb6c1&style=flat" />
+</p>
 
 </div>
 
 ---
 
 ## 🚀 About Me
-I'm a Computer Science student at the University of Lampung with a strong interest in **Web Development**, **UI/UX Design**, and **Software Engineering**.
+I'm a Computer Science student at the University of Lampung with a strong interest in software development, UI/UX design, and building engaging, interactive experiences across web and mobile platforms.
 
-I have experience developing responsive websites using **HTML, CSS, JavaScript, and PHP**, as well as building **object-oriented applications and games in Java**.  
-I also work with **data analysis tools such as NumPy and Pandas using Google Colab**.  
-I enjoy transforming ideas into functional and visually engaging solutions while continuously improving my technical and design skills.
+### Always Learning :
+I'm constantly expanding my skill set, whether it's a new framework, tool, or concept. I believe in lifelong learning and collaboration, so I'm always open to new ideas and opportunities!
 
 ---
 
@@ -71,10 +65,12 @@ I enjoy transforming ideas into functional and visually engaging solutions while
 ## 📊 GitHub Stats
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=malsyacantika&show_icons=true&theme=rose_pine)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=malsyacantika&layout=compact&theme=rose_pine)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=malsyacantika&show_icons=true&theme=rose_pine)
+
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=malsyacantika&layout=compact&theme=rose_pine)
 
 </div>
+
 
 ---
 
